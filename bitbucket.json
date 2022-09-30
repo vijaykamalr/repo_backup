@@ -1,0 +1,878 @@
+[
+    {
+        "name": "Documents",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/documents.git"
+    },
+    {
+        "name": "Design",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/design.git"
+    },
+    {
+        "name": "Extra",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/extra.git"
+    },
+    {
+        "name": "nourishdoc.com",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/nourishdoc.com.git"
+    },
+    {
+        "name": "Bubdub_Zone",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bubdub-zone.git"
+    },
+    {
+        "name": "Bubdub_Design",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bubdub_design.git"
+    },
+    {
+        "name": "Bubdub_Documents",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bubdub_documents.git"
+    },
+    {
+        "name": "Bubdub_Android_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bubdub_android_app.git"
+    },
+    {
+        "name": "Verifi",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/verifi.git"
+    },
+    {
+        "name": "Proj_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/proj_app.git"
+    },
+    {
+        "name": "Web_Projectaroundyou",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/web_projectaroundyou.git"
+    },
+    {
+        "name": "Bluelakefund",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bluelakefund.git"
+    },
+    {
+        "name": "Muzibo_- Master",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/muzibo-master.git"
+    },
+    {
+        "name": "Ultracash",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ultracash.git"
+    },
+    {
+        "name": "KIS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kis.git"
+    },
+    {
+        "name": "Travelogue",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/travelogue.git"
+    },
+    {
+        "name": "android_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/android_app.git"
+    },
+    {
+        "name": "UltraCollect",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ultracollect.git"
+    },
+    {
+        "name": "WebAPI",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/webapi.git"
+    },
+    {
+        "name": "Frontend",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/frontend.git"
+    },
+    {
+        "name": "android_src",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/android_src.git"
+    },
+    {
+        "name": "novaplay_android_src",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/novaplay_android_src.git"
+    },
+    {
+        "name": "novaplay_web",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/novaplay_web.git"
+    },
+    {
+        "name": "novaplay_steam",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/novaplay_steam.git"
+    },
+    {
+        "name": "SuperUser",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/superuser.git"
+    },
+    {
+        "name": "ios_src",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ios_src.git"
+    },
+    {
+        "name": "Web_Development",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/web_development.git"
+    },
+    {
+        "name": "novaplay_api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/novaplay_api.git"
+    },
+    {
+        "name": "KPISoft",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kpisoft.git"
+    },
+    {
+        "name": "Kallable",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kallable.git"
+    },
+    {
+        "name": "android",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/android.git"
+    },
+    {
+        "name": "ios",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ios.git"
+    },
+    {
+        "name": "admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin.git"
+    },
+    {
+        "name": "travelogue_android",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/travelogue_android.git"
+    },
+    {
+        "name": "travelogue_ios",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/travelogue_ios.git"
+    },
+    {
+        "name": "parsing-node",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/parsing-node.git"
+    },
+    {
+        "name": "API-node",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/api-node.git"
+    },
+    {
+        "name": "front-end",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/front-end.git"
+    },
+    {
+        "name": "cms",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/cms.git"
+    },
+    {
+        "name": "html",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/html.git"
+    },
+    {
+        "name": "travelogue_manager",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/travelogue_manager.git"
+    },
+    {
+        "name": "waterCustomer",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/watercustomer.git"
+    },
+    {
+        "name": "Moneyorder",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/moneyorder.git"
+    },
+    {
+        "name": "20000_STories",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/20000-stories.git"
+    },
+    {
+        "name": "Bellora_front",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bellora_front.git"
+    },
+    {
+        "name": "PoonawallaCredit",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/poonawallacredit.git"
+    },
+    {
+        "name": "bellora_admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bellora_admin.git"
+    },
+    {
+        "name": "bellora_back",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bellora_back.git"
+    },
+    {
+        "name": "hydrotrak",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/hydrotrak.git"
+    },
+    {
+        "name": "koolnfx",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/koolnfx.git"
+    },
+    {
+        "name": "Vibrant-App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/vibrant-app.git"
+    },
+    {
+        "name": "Tracking_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/tracking-app.git"
+    },
+    {
+        "name": "Channelfight",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/channelfight.git"
+    },
+    {
+        "name": "Source",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/source.git"
+    },
+    {
+        "name": "GossipChatApi",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/gossipchatapi.git"
+    },
+    {
+        "name": "DR_WEB_DEVELOPMENT",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dr_web_development.git"
+    },
+    {
+        "name": "MiSOMOSApi",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/misomosapi.git"
+    },
+    {
+        "name": "MiSOMOS_Source",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/misomos_source.git"
+    },
+    {
+        "name": "channel_fight_api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/channel_fight_api.git"
+    },
+    {
+        "name": "ThinkRight",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/thinkright.git"
+    },
+    {
+        "name": "CalendarView_IOS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/calendarview_ios.git"
+    },
+    {
+        "name": "himeya_erp_source",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/himeya_erp_source.git"
+    },
+    {
+        "name": "himeya_erp_html",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/himeya_erp_html.git"
+    },
+    {
+        "name": "himeya_erp_dev",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/himeya_erp_dev.git"
+    },
+    {
+        "name": "Himeya_Backend",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/himeya_backend.git"
+    },
+    {
+        "name": "LightViewApp",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/lightviewapp.git"
+    },
+    {
+        "name": "MiSOMOS_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/misomos_app.git"
+    },
+    {
+        "name": "100Mb",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/100mb.git"
+    },
+    {
+        "name": "LGWebOS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/lgwebos.git"
+    },
+    {
+        "name": "benzerworld",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/benzerworld.git"
+    },
+    {
+        "name": "VIB_DEV_TEAM",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/vib_dev_team.git"
+    },
+    {
+        "name": "BARS_- Mobileum",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bars-mobileum.git"
+    },
+    {
+        "name": "Mobileum",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mobileum.git"
+    },
+    {
+        "name": "ltu",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ltu.git"
+    },
+    {
+        "name": "GC",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/gc.git"
+    },
+    {
+        "name": "HAR",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/har.git"
+    },
+    {
+        "name": "Pulse_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pulse_app.git"
+    },
+    {
+        "name": "DVS_Front_End",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dvs_front_end.git"
+    },
+    {
+        "name": "DVS_API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dvs_api.git"
+    },
+    {
+        "name": "BramanGroup",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bramangroup.git"
+    },
+    {
+        "name": "DustyRoads",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dustyroads.git"
+    },
+    {
+        "name": "Kinoclub",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kinoclub.git"
+    },
+    {
+        "name": "FCHIPPA",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/fchippa.git"
+    },
+    {
+        "name": "DustyRoads_design",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dustyroads_design.git"
+    },
+    {
+        "name": "ems",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ems.git"
+    },
+    {
+        "name": "blazestart_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/blazestart_app.git"
+    },
+    {
+        "name": "EmsApp",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/emsapp.git"
+    },
+    {
+        "name": "mobile_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mobile_app.git"
+    },
+    {
+        "name": "CaptureCMS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/capturecms.git"
+    },
+    {
+        "name": "DustyRoads_v2",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dustyroads_v2.git"
+    },
+    {
+        "name": "Askavenue",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/askavenue.git"
+    },
+    {
+        "name": "19thshop",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/19thshop.git"
+    },
+    {
+        "name": "Admin_Backup",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin_backup.git"
+    },
+    {
+        "name": "KPITSupport",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kpitsupport.git"
+    },
+    {
+        "name": "blazestart_app_v2",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/blazestart_app_v2.git"
+    },
+    {
+        "name": "Nodwin_Vendor",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/nodwin_vendor.git"
+    },
+    {
+        "name": "Admin_V1",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin_v1.git"
+    },
+    {
+        "name": "DewArenaAPI",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewarenaapi.git"
+    },
+    {
+        "name": "DewArenaAPP",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewarenaapp.git"
+    },
+    {
+        "name": "ACT-HRMS-UI",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-hrms-ui.git"
+    },
+    {
+        "name": "ACT-HRMS-MOBILE",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-hrms-mobile.git"
+    },
+    {
+        "name": "ACT-HRMS-DESKTOP",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-hrms-desktop.git"
+    },
+    {
+        "name": "Showroom_APP",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/showroom_app.git"
+    },
+    {
+        "name": "Shop_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/shop_app.git"
+    },
+    {
+        "name": "NodwinVendor_API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/nodwinvendor_api.git"
+    },
+    {
+        "name": "ashishbags",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ashishbags.git"
+    },
+    {
+        "name": "kpit",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kpit.git"
+    },
+    {
+        "name": "AID",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/aid.git"
+    },
+    {
+        "name": "Samarthanam",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/samarthanam.git"
+    },
+    {
+        "name": "DewArenaRedeem",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewarenaredeem.git"
+    },
+    {
+        "name": "benefits-bazaar",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/benefits-bazaar.git"
+    },
+    {
+        "name": "benefits-bazaar-design",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/benefits-bazaar-design.git"
+    },
+    {
+        "name": "Blazestar_ma",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/blazestar_ma.git"
+    },
+    {
+        "name": "ACT-HRMS-PWA",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-hrms-pwa.git"
+    },
+    {
+        "name": "pubgBang",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pubgbang.git"
+    },
+    {
+        "name": "ACT-HRMS-WEB",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-hrms-web.git"
+    },
+    {
+        "name": "pmlc2020",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pmlc2020.git"
+    },
+    {
+        "name": "asset_mngmt",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asset_mngmt.git"
+    },
+    {
+        "name": "TravelEarth",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/travelearth.git"
+    },
+    {
+        "name": "ACT-API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/act-api.git"
+    },
+    {
+        "name": "HelpDoc",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/helpdoc.git"
+    },
+    {
+        "name": "benefits-bazaar-flutter-poc",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/benefits-bazaar-flutter-poc.git"
+    },
+    {
+        "name": "NodwinVendor_API_V2",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/nodwinvendor_api_v2.git"
+    },
+    {
+        "name": "pmpc2020",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pmpc2020.git"
+    },
+    {
+        "name": "dewsaudi",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsaudi.git"
+    },
+    {
+        "name": "dewSaudiLanding",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsaudilanding.git"
+    },
+    {
+        "name": "dewsaudiapi",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsaudiapi.git"
+    },
+    {
+        "name": "SkoolTreeApp",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/skooltreeapp.git"
+    },
+    {
+        "name": "Safal-PWA",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/safal-pwa.git"
+    },
+    {
+        "name": "Safal-API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/safal-api.git"
+    },
+    {
+        "name": "Safal-Admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/safal-admin.git"
+    },
+    {
+        "name": "Dr._Agarwal",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dr.-agarwal.git"
+    },
+    {
+        "name": "ketomojo-live",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ketomojo-live.git"
+    },
+    {
+        "name": "ketomojo-staging",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ketomojo-staging.git"
+    },
+    {
+        "name": "ketomojo-marketplace",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ketomojo-marketplace.git"
+    },
+    {
+        "name": "player",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/player.git"
+    },
+    {
+        "name": "Nodwin_Register",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/nodwin_register.git"
+    },
+    {
+        "name": "Kinoclud_Tizen",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kinoclud_tizen.git"
+    },
+    {
+        "name": "Kinoclub_LG",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kinoclub_lg.git"
+    },
+    {
+        "name": "pmcc-bd",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pmcc-bd.git"
+    },
+    {
+        "name": "pmcc-pak",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pmcc-pak.git"
+    },
+    {
+        "name": "asian_paints",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asian-paints.git"
+    },
+    {
+        "name": "asian_paints regional",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asian-paints-regional.git"
+    },
+    {
+        "name": "rmkv",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/rmkv.git"
+    },
+    {
+        "name": "woloo_android",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/woloo_android.git"
+    },
+    {
+        "name": "woloo_ios",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/woloo_ios.git"
+    },
+    {
+        "name": "woloo_admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/woloo_admin.git"
+    },
+    {
+        "name": "woloo_ecom",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/woloo_ecom.git"
+    },
+    {
+        "name": "cobuild_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/cobuild_app.git"
+    },
+    {
+        "name": "AIFMetrics",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/aifmetrics.git"
+    },
+    {
+        "name": "HP_Promo",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/hp_promo.git"
+    },
+    {
+        "name": "HP_Promo_Frontend",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/hp_promo_frontend.git"
+    },
+    {
+        "name": "cobuild_ui",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/cobuild_ui.git"
+    },
+    {
+        "name": "cobuild_web",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/cobuild_web.git"
+    },
+    {
+        "name": "cobuild_api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/cobuild_api.git"
+    },
+    {
+        "name": "BATTLE_GROUND",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/battle_ground.git"
+    },
+    {
+        "name": "VCC",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/vcc.git"
+    },
+    {
+        "name": "Dewsquad_COD_APP",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsquad_cod_app.git"
+    },
+    {
+        "name": "PERP_UI",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/perp_ui.git"
+    },
+    {
+        "name": "Pulse_v2",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pulse_v2.git"
+    },
+    {
+        "name": "mdew_codm_FE",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mdew_codm_fe.git"
+    },
+    {
+        "name": "AVP",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/avp.git"
+    },
+    {
+        "name": "mdew_codm_node",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mdew_codm_node.git"
+    },
+    {
+        "name": "TNPL_iOS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/tnpl_ios.git"
+    },
+    {
+        "name": "Player_Payment_angular",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/player_payment_angular.git"
+    },
+    {
+        "name": "Player_Payment_node",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/player_payment_node.git"
+    },
+    {
+        "name": "Evolving_System_Material",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/evolving_system_material.git"
+    },
+    {
+        "name": "mdew_codm_admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mdew_codm_admin.git"
+    },
+    {
+        "name": "Agorae_API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/agorae_api.git"
+    },
+    {
+        "name": "mdew_codm_FE_PH",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/mdew_codm_fe_ph.git"
+    },
+    {
+        "name": "evolving_system_react",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/evolving_system_react.git"
+    },
+    {
+        "name": "agorae_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/agorae_app.git"
+    },
+    {
+        "name": "agorea_admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/agorea_admin.git"
+    },
+    {
+        "name": "evolving_system",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/evolving_system.git"
+    },
+    {
+        "name": "Pulse_v3",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/pulse_v3.git"
+    },
+    {
+        "name": "asharq-news",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asharq-news.git"
+    },
+    {
+        "name": "asharq_api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asharq_api.git"
+    },
+    {
+        "name": "asharq_admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/asharq_admin.git"
+    },
+    {
+        "name": "dewsquad-powerup",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsquad-powerup.git"
+    },
+    {
+        "name": "VCC_2022",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/vcc_2022.git"
+    },
+    {
+        "name": "dewsquad_prefil",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewsquad_prefil.git"
+    },
+    {
+        "name": "Claro",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/claro.git"
+    },
+    {
+        "name": "plexusoutdoor",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/plexusoutdoor.git"
+    },
+    {
+        "name": "SyrmaSGS",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/syrmasgs.git"
+    },
+    {
+        "name": "wygoshop",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/wygoshop.git"
+    },
+    {
+        "name": "DubaiHills",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dubaihills.git"
+    },
+    {
+        "name": "smartkarrot",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot.git"
+    },
+    {
+        "name": "DewPowerAPI",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewpowerapi.git"
+    },
+    {
+        "name": "smartkarrot_fr",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot_fr.git"
+    },
+    {
+        "name": "smartkarrot_new",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot_new.git"
+    },
+    {
+        "name": "bhoomananda-india",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bhoomananda-india.git"
+    },
+    {
+        "name": "Aragen",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/aragen.git"
+    },
+    {
+        "name": "kpit-wordpress",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kpit-wordpress.git"
+    },
+    {
+        "name": "smartkarrot_es",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot_es.git"
+    },
+    {
+        "name": "Monster_API",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/monster_api.git"
+    },
+    {
+        "name": "Dewpower_api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewpower_api.git"
+    },
+    {
+        "name": "BARS-Mobileum-2019",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bars-mobileum-2019.git"
+    },
+    {
+        "name": "admin_monster_energy",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin_monster_energy.git"
+    },
+    {
+        "name": "app_monster_energy",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/app_monster_energy.git"
+    },
+    {
+        "name": "dewpowerup-node",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/dewpowerup-node.git"
+    },
+    {
+        "name": "admin_dewpower_up",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin_dewpower_up.git"
+    },
+    {
+        "name": "OKR-Thence",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/okr-thence.git"
+    },
+    {
+        "name": "smartkarrot_com",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot_com.git"
+    },
+    {
+        "name": "smartkarrot-live",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smartkarrot-live.git"
+    },
+    {
+        "name": "node_monster_energy",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/node_monster_energy.git"
+    },
+    {
+        "name": "admin_node_monster",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/admin_node_monster.git"
+    },
+    {
+        "name": "BridgeX",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bridgex.git"
+    },
+    {
+        "name": "Kavach_poc",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kavach_poc.git"
+    },
+    {
+        "name": "kavach-admin",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kavach-admin.git"
+    },
+    {
+        "name": "Silae_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/silae-app.git"
+    },
+    {
+        "name": "kavach-api",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kavach-api.git"
+    },
+    {
+        "name": "Kutchina_Web",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kutchina_web.git"
+    },
+    {
+        "name": "hackle",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/hackle.git"
+    },
+    {
+        "name": "bharatjodoyatra",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bharatjodoyatra.git"
+    },
+    {
+        "name": "ios_app",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/ios_app.git"
+    },
+    {
+        "name": "Smart_Parking_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/smart_parking_app.git"
+    },
+    {
+        "name": "kavach-claims",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/kavach-claims.git"
+    },
+    {
+        "name": "bkp_bj",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/bkp_bj.git"
+    },
+    {
+        "name": "Secret_Golf_App",
+        "url": "https://vibrant_info@bitbucket.org/vibrant_info/secret-golf-app.git"
+    }
+]
