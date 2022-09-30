@@ -8,7 +8,7 @@ const childprocess = require("child_process");
 const tokenEndpoint = "https://bitbucket.org/site/oauth2/access_token";
 const repositoryEndpoint = "https://api.bitbucket.org/2.0/repositories/";
 
-var repoOwner = "vijaykamalr75";
+var repoOwner =parsedArgs.owner;
 var backupDirectory = parsedArgs.backupFolder || "./backup/";
 const hasClone = parsedArgs.type;
 if (!repoOwner) {
@@ -53,7 +53,7 @@ if(hasClone === 'fetch'){
                 setTimeout(() => {
                     console.log('----3-----' + backupFolder);
                     return repodata;
-                }, 10);
+                }, 5000);
             })
         }, 5000);
      

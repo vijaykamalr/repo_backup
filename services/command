@@ -1,1 +1,5 @@
 node app.js --owner <owner> --backupfolder ./backup --consumerKey <key>--consumerSecret <secret/> --type <clone/>
+node app.js --owner vijaykamalr75 --backupfolder ./backup --consumerKey Kqz5ks9cFXmetrTcF2 --consumerSecret AU45TNYACvubQgbqEZfKm4LWWZUjMgSK --type clone
+
+node app.js --owner vibrant_info --backupfolder ./backup --consumerKey yF8JR4vm3nxAzBdwY8 --consumerSecret jFu8kSG4UrF2VCdRqpvX5mdvHLPA6NQr --type clone
+

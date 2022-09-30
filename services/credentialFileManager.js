@@ -12,6 +12,7 @@
     } else {
         homeDir = process.env.CREDENTIAL_LOCATION;
     }
+    console.log(homeDir);
     
     const credentialFolderName = ".bitbucket-backup";
     

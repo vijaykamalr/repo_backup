@@ -40,10 +40,11 @@
             makeBackupFolder();
         }
     }
+    
+    var repositories = [];
     const fetchDataFn = async(url)=>{
         return new Promise(function (resolve, reject) {
             var hasNextPage = false;
-            var repositories = [];
         httpRequest({
             uri: url,
             auth: {
@@ -51,21 +52,25 @@
             },
             json: true
         })
-            .then(function (data) {
-                var repos = _.each(data.values, function (repository) {
+            .then(async function (data) {
+                var repos = await _.each(data.values, function (repository) {
                     var cloneLinks = repository.links.clone;
                     if (cloneLinks) {
                         var httpsLink = _.first(_.filter(cloneLinks, function (l) { return l.name == "https"; }));
-                        repositories.push({ name: repository.name, url: httpsLink.href });
+                        repositories.push({ name: repository.name.replace(' ','_'), url: httpsLink.href });
                     }
 
                 });
+                console.log(repositories);
                 hasNextPage = data.next ? true : false;
                 if (hasNextPage)
                 {
                     repositoryListingPageUri = data.next;
-                    fetchDataFn(repositoryListingPageUri);
-                }else resolve(repositories);
+                    setTimeout(function(){
+                        fetchDataFn(repositoryListingPageUri);
+                    },5000)
+                }else 
+                resolve(repositories);
 
             })
             .catch(function (err) {
@@ -79,9 +84,6 @@
 
         return new Promise(async function (resolve, reject) {
             try {
-
-
-              
                 var repositoryListingPageUri = repositoryEndpointUrl + repositoryOwner;
                 const fetchData = await fetchDataFn(repositoryListingPageUri);
               console.log(fetchData);
